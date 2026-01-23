@@ -51,7 +51,6 @@ The course format will comprise a weekly **60-minute online lecture** and a week
 <p>The course will end with a one week in person meeting in Heidelberg on <strong>1-5 June 2026</strong> during which students will be able to implement a short project and listen to scientific lectures.</p>
 
 
-<p>The course will end with a one week in person meeting in Heidelberg on <strong>1-5 June 2026</strong> during which students will be able to implement a short project and listen to scientific lectures.</p>
 
 
 
