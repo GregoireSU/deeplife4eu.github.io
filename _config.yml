@@ -10,11 +10,11 @@ title: Deeplife
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website for the Deeplife course.
-baseurl: ""
-url: ""
+baseurl: #""
+url: #""
 
 include:
-  - .htaccess
+  #- .htaccess
   - _pages
 
 sass:
