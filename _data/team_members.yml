@@ -1,0 +1,66 @@
+- name: Bartek Wilczynski
+  university:	University of Warsaw	
+  description: Bartek Wilczyński is an Associate Professor at the Faculty of Mathematics, Informatics and Mechanics. He is working on data analysis and modeling related to the functions of non-coding regulatory DNA sequences such as enhancers and promoters. Among other projects, he has worked on ML approaches to classification of regulatory DNA sequences as well as ML-based models for predicting the transcriptional output of gen loci based on epigenetic data. 
+  website: http://regulomics.mimuw.edu.pl
+  highlight: 1
+
+- name: Britta Velten	
+  university: Heidelberg University	
+  description: Britta Velten is a tenure-track-professor for Multifactorial Data Analysis and Machine Learning in the Life Sciences at the Centre for organismal studies (COS) and the Centre for Scientific Computing (IWR) of Heidelberg University. Her group works at the interface of data science, machine learning and the life sciences with the aim to develop the computational tools and statistical methods that are required to translate large-scale molecular data sets (‘omics data’) into biological insights and novel discoveries. Trained as a mathematician, she obtained a PhD in statistics from ETH Zurich and EMBL Heidelberg. From 2019-2022 she worked as a postdoc at the German Cancer Research Center and the Wellcome Sanger Institute. 
+  website: https://www.cos.uni-heidelberg.de/en/research-groups/biological-data-science
+  highlight: 1
+  
+- name: Carl Herrmann	
+  university: Heidelberg University	
+  description: Carl Herrmann is professor of bioinformatics at the institute for Pharmacy and Molecular Biotechnology (IPMB, Heidelberg University ). His group is interested in appying statistical and ML based approaches to decipher gene (de)regulation in development and diseases, in particular cancer (https://www.hdsu.org ). He is engineer and physicist by training, and worked at INSERM Marseille before joigning Heidelberg in 2013.
+  website: https://www.hdsu.org
+  highlight: 1
+  
+- name: David Hoksza	
+  university: Charles University Prag	
+  description: David Hoksza is an associate professor at the Faculty of Mathematics and Physics of Charles University in Prague. He obtained his doctoral degree at the same faculty in software engineering/structural bioinformatics, followed by a post-doc at Luxembourg Center for Systems Biomedicine, working on various projects in the area of disease maps. After that, he returned to Prague where his main research interests center around the development of algorithms and tools in the area of structural bioinformatics and data visualization. 
+  website: https://bioinformatics.cuni.cz/hoksza/
+  highlight: 1
+  
+- name: Dario Malchiodi 	
+  university: University of Milano	
+  description: Dario Malchiodi is an associate professor at the Department of Computer Science, University of Milan and visiting scientist at Université de la Côte d'Azur, France. His research activities focus on the treatment of uncertainty in machine learning, with particular focus to data-driven induction of fuzzy sets, compression of machine learning models, mining of knowledge bases in semantic Web, and in the application of machine learning to the fields of bioinformatics, medicine, forensics, veterinary, and cultural heritage. He authored and co-authored more than one hundred publications, and participated in the activities of ten research projects and research groups, both at national and international level.
+  website: https://malchiodi.di.unimi.it/
+  highlight: 1
+  
+- name: Elodie Laine 	
+  university: Sorbonne University	
+  description: Elodie Laine is professor at Sorbonne University's Life Sciences Department. She works in the laboratory of Computational and Quantitative Biology, in Paris, France. She teaches programming, algorithmic, bioinformatics, and AI to students from all levels, with backgrounds in biology, computer science, physics, and medicine. Her research activities addresses questions such as how do proteins fold, move, and associate? How did they evolve? What are the mechanisms responsible for their misfunction? How can computational methods guide biological intervention and the design of better treatments? 
+  website: https://www.lcqb.upmc.fr/laine
+  highlight: 1
+  
+- name: Grégoire Sergeant-Perthuis 	
+  university: Sorbonne University	
+  description: Grégoire Sergeant-Perthuis is Associate Professor at the Laboratory of Computational and Quantitative Biology (LCQB) of Sorbonne Université. His work revolves around leveraging geometric priors in machine learning, with a specific emphasis on applications in computational biology. He completed his Ph.D. in mathematics and shifted towards computer science during his postdoctoral research.
+  website: http://www.gregoiresergeant-perthuis.com/
+  highlight: 1
+  
+- name: Joanna Sulkowska
+  university: University of Warsaw
+  description: 
+  website: 
+  highlight: 1
+  
+- name: Karl Rohr
+  university: Heidelberg University	
+  description: Karl Rohr is Head of the Biomedical Computer Vision group and Associate Professor at the BioQuant Center and the IPMB of Heidelberg University. He studied Electrical Engineering at the University of Karlsruhe (KIT) and received his Ph.D. degree as well as his Habilitation degree in Computer Science from the University of Hamburg. His research interests are in biomedical image analysis with focus on segmentation, tracking, and image registration for microscopy image analysis. He has published more than 300 peer-reviewed scientific articles and was Program Chair of the IEEE International Symposium on Biomedical Imaging (ISBI) 2016. 
+  website: http://www.bioquant.uni-heidelberg.de/bmcv
+  highlight: 1
+  
+- name: Marco Frasca	
+  university: University of Milano	
+  description: Marco Frasca is an Associate Professor at the Department of Computer Science, University of Milan. He contributed to consolidating the application of Hopfield networks to classification and ranking problems with the development of single- and multi-task parametric Hopfield models. His research interests also include the design of novel compression strategies for deep neural networks, and the application of machine learning-driven approaches in bioinformatics, computational biology, and network medicine. 
+  website: https://frasca.di.unimi.it
+  highlight: 1
+  
+- name: Martin Schätz	
+  university: Charles University Prag	
+  description: Martin Schätz is a BioImage Analyst in Vinicna Microscopy Core Facility of Faculty of Science, Charles University, and assisstant profesor at Department of Mathematics, Informatics, and Cybernetics.  His work focuses on appliead signal an image analysis in biological and biomedical fields, from microscopy image analysis, CT image analysis, up to EEG or PSG singal analysis. He is part of the Global BioImage Analysts’ Society (GloBIAS) and started the Czech BioImage Analysts’ Society (CzechBIAS). Trained as informatician, he optained a PhD in Technical Cybernetics from University of Chemistry and Technology in Prague. 
+  website: https://www.schaetz.cz/
+  highlight: 1 
+

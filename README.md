@@ -1,2 +1,3 @@
-# deeplife4eu.github.io
-Deeplife 4EU+ course webpage
+# DeepLife
+
+This Repo is for the Website of the DeepLife Course.
