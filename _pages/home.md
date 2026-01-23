@@ -9,7 +9,7 @@ permalink: /
 
 <figure>
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/DL_logo_2025.png" width="80%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/DL_logo_2026.png" width="80%">
 </center>
 </figure>
 
