@@ -13,7 +13,7 @@ permalink: /
 </center>
 </figure>
 
-# Deep Learning in Life Sciences - Edition 2025
+# Deep Learning in Life Sciences - Edition 2026
 
 <br>
 
