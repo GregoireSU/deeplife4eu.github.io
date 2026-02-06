@@ -7,20 +7,23 @@ permalink: /program
 
 ## Program
 
-This course will be organized in 3 blocks over 9 weeks (start: week of 24.02.2025)
 
-1. DL in single-cell genomics – 3 weeks
-2. DL in protein bioinformatics - 4 weeks
-3. DL in image analysis – 2 weeks
 <br>
 
-**Note that lectures will start at 5pm sharp; from 4.30pm until 5pm, there will be a debrief of the exercise sheet of the previous week!**
+**Note that jounral clubs will start at 5pm sharp; from 4.30pm until 5.30pm, on Thuesdays**
 
 
-The course format will comprise a weekly **60-minute online lecture** and a **weekly hybrid (in-person/online) practical Python session**. Lectures will be given by [teachers]({{ site.url }}{{ site.baseurl }}/team) from all participating universities. Lectures and practical exercises on all three application areas will be centered around one **recent publication** illustrating a specific application and method.
+The journal club sessions will be **60-minute and online**. They will be animated by [teachers]({{ site.url }}{{ site.baseurl }}/team) from all participating universities. Four groups will participate in each session:
+
+1. **Background team**: the groupe will explain the context and background of the paper.
+
+2.**Presenter team**: the group that will present the paper.
+
+3.**Reviewer team**: the group that will act as reviewers and ask questions. Please send your question **2 days** before the journal club so they can be shared to other groups.
+
+4.**Writer team**: the group that will write a 2-page summary of the paper and the session, with up to 10 references.
 <br>
 
-The course will end with a 2-day workshop and **hackathon meeting** in Heidelberg on **May 30/31-June 1st 2025** during which students will be able to implement a short project and listen to scientific lectures.
 
 
 ### Prerequisites {#Prerequisites}
