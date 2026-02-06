@@ -15,7 +15,7 @@ permalink: /program
 
 The journal club sessions will be **60-minute and online**. They will be animated by [teachers]({{ site.url }}{{ site.baseurl }}/team) from all participating universities. Four groups will participate in each session:
 
-1. **Background team**: the groupe will explain the context and background of the paper.
+1.**Background team**: the groupe will explain the context and background of the paper.
 
 2.**Presenter team**: the group that will present the paper.
 
