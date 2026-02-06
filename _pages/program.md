@@ -69,7 +69,7 @@ Specifically, we expect that the following theoretical concepts are familiar:
 * matrix algebra
 
 
-### Preliminary schedule of lectures
+### Material for the journal club
 
 [Link to the weekly Zoom lecture](https://eu02web.zoom-x.de/j/68946797163) **(Note: you will get the passphrase to join the meeting from your local instructor!)**
 
