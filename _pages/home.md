@@ -42,7 +42,7 @@ This course will be organized in will be organized in 7 weeks of advanced Journa
 
 
 
-<p>The journal clubs will be based on the online lectures and material that can be found her: <a href="https://deeplife4eu.github.io/program">material</a>.
+<p>The journal clubs will be based on the online lectures and material that can be found her: <a href="https://deeplife4eu.github.io/program">material</a> and can be found here [program]({{ site.url }}{{ site.baseurl }}/program).
 <br></p>
 
 
@@ -93,6 +93,15 @@ Here is the list of papers, for which you will have to constitute groups:
     </a>
   </li>
 </ol>
+
+
+The associated lectures (see here [program]({{ site.url }}{{ site.baseurl }}/program)) associated to each papers are: 
+
+1. Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)
+2. Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)
+4. Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis
+5. Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis
+6. Protein design in the deep learning era, from inverse folding to diffusion models, Elodie Laine 
 
 
 ### Contact person for information
