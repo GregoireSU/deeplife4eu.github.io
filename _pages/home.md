@@ -26,7 +26,6 @@ permalink: /
 
 <br>
 
-**++++ [CHECK THE SCHEDULE OF THE HACKATHON 2025!]({{ site.url }}{{ site.baseurl }}/meeting) ++++** 
 
 As part of the **Blended Intensive Program (BIP) action within the [4EU+ alliance](https://4euplus.eu/4EU-1.html) of European universities**, Heidelberg University and Sorbonne Université will coordinate a joint course on Applications of Deep Learning in Life Sciences (DeepLife) involving the universities of Paris-Sorbonne, Warsaw, Prague, Milano and Heidelberg. The purpose of this course is to give an insight in the very active field of DL in the field of biomedicine and highlight recent examples of applications.
 <p>
