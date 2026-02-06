@@ -5,7 +5,7 @@ sitemap: false
 permalink: /projects
 ---
 
-# DeepLife projects 2025
+# DeepLife projects 2026
 
 **To be announced soon**
 
