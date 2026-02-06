@@ -49,7 +49,7 @@ This course will be organized in will be organized in 7 weeks of advanced Journa
 
 Here is the list of papers, for which you will have to constitute groups: 
 
-<ul>
+<ol>
   <li> 
     <em>Protein embeddings and deep learning predict binding residues for various ligand classes.</em> 
    Littmann, M., Heinzinger, M., Dallago, C., Weissenow, K., &amp; Rost, B., Scientific Reports 2021. <br>
@@ -92,7 +92,7 @@ Here is the list of papers, for which you will have to constitute groups:
       https://www.nature.com/articles/s41586-023-06415-8
     </a>
   </li>
-</ul>
+</ol>
 
 
 ### Contact person for information
