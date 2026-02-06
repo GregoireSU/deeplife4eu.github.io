@@ -50,48 +50,44 @@ This course will be organized in will be organized in 7 weeks of advanced Journa
 Here is the list of papers, for which you will have to constitute groups: 
 
 <ul>
-  <li>
-    Littmann, M., Heinzinger, M., Dallago, C., Weissenow, K., &amp; Rost, B. (2021). 
+  <li> 
     <em>Protein embeddings and deep learning predict binding residues for various ligand classes.</em> 
-    Scientific Reports, 11(1), 23916. 
+   Littmann, M., Heinzinger, M., Dallago, C., Weissenow, K., &amp; Rost, B., Scientific Reports 2021. <br>
     <a href="https://www.nature.com/articles/s41598-021-03431-4">
       https://www.nature.com/articles/s41598-021-03431-4
     </a>
   </li>
   <li>
-    Utgés, J. S., &amp; Barton, G. J. (2024). 
-    <em>Comparative evaluation of methods for the prediction of protein–ligand binding sites.</em> 
-    Journal of Cheminformatics, 16(1), 126. 
-    A new benchmark that addresses issues with evaluation structure-based protein-ligand binding site prediction methods and evaluates classical and deep learning approaches.
+     <em>Comparative evaluation of methods for the prediction of protein–ligand binding sites.</em> 
+    Utgés, J. S., and  Barton, G. J., Journal of Cheminformatics 2024. <br>
     <a href="https://link.springer.com/article/10.1186/s13321-024-00923-z">
       https://link.springer.com/article/10.1186/s13321-024-00923-z
     </a>
   </li>
   <li>
     <em>Ab initio characterization of protein molecular dynamics with AI2BMD.</em> 
-    (2024). Nature. 
-    AI²BMD introduces an AI-based ab initio biomolecular dynamics system that efficiently simulates proteins with near-ab initio accuracy. 
+    Wang, T., He, X., Li, M. et al., Nature 2024.<br>
     <a href="https://www.nature.com/articles/s41586-024-08127-z">
       https://www.nature.com/articles/s41586-024-08127-z
     </a>
   </li>
   <li>
     <em>VAMPnets for deep learning of molecular kinetics.</em> 
-    A neural-network framework that learns molecular kinetics end-to-end by combining feature mapping and Markov state modeling. 
+    Andreas Mardt, Luca Pasquali, Hao Wu and Frank Noé, Nat Commun 2018.<br>
     <a href="https://www.nature.com/articles/s41467-017-02388-1">
       https://www.nature.com/articles/s41467-017-02388-1
     </a>
   </li>
   <li>
     <em>Deep Generative Markov State Models.</em> 
-    A deep generative framework for modeling metastable dynamical systems and generating molecular trajectories. 
+    Hao Wu,Andreas Mardt,Luca Pasquali and Frank Noé, Advances in Neural Information Processing Systems 2018.<br>
     <a href="https://proceedings.neurips.cc/paper_files/paper/2018/file/deb54ffb41e085fd7f69a75b6359c989-Paper.pdf">
       https://proceedings.neurips.cc/paper_files/paper/2018/file/deb54ffb41e085fd7f69a75b6359c989-Paper.pdf
     </a>
   </li>
   <li>
     <em>De novo design of protein structure and function with RFdiffusion.</em> 
-    (2023). Nature. A method for generative protein design using the RFdiffusion model. 
+    Watson, J.L., Juergens, D., Bennett, N.R. et al., Nature 2023<br>
     <a href="https://www.nature.com/articles/s41586-023-06415-8">
       https://www.nature.com/articles/s41586-023-06415-8
     </a>
