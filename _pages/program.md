@@ -15,11 +15,11 @@ permalink: /program
 
 The journal club sessions will be **60-minute and online**. They will be animated by [teachers]({{ site.url }}{{ site.baseurl }}/team) from all participating universities. Four groups of **2 students from the same university** will participate in each session:
 
-1.**Background team**: the groupe will explain the context and background of the paper (10 minutes).
+1.**Background team**: the groupe will explain the context and background of the paper (15 minutes).
 
 2.**Presenter team**: the group that will present the paper (20 minutes).
 
-3.**Reviewer team**: the group that will act as reviewers and ask questions. Please send your question **2 days** before the journal club so they can be shared to other groups (30 minutes).
+3.**Reviewer team**: the group that will act as reviewers and ask questions. Please send your question **2 days** before the journal club so they can be shared to other groups (25 minutes).
 
 4.**Writer team**: the group that will write a 2-page summary of the paper and the session, with up to 10 references.
 <br>
