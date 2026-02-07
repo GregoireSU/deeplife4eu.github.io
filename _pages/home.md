@@ -42,10 +42,19 @@ This course will be organized in will be organized in 7 weeks of advanced Journa
 
 
 
-<p>The journal clubs will be based on the online lectures and material that can be found here: [program]({{ site.url }}{{ site.baseurl }}/program).
+<p>The journal clubs will be based on the online lectures and material that can be found here: [Lectures]({{ site.url }}{{ site.baseurl }}/program).
 <br></p>
 
+The journal club sessions will be **60-minute and online**. They will be animated by [teachers]({{ site.url }}{{ site.baseurl }}/team) from all participating universities. Four groups of **2 students from the same university** will participate in each session:
 
+1.**Background team**: the groupe will explain the context and background of the paper (15 minutes).
+
+2.**Presenter team**: the group that will present the paper (20 minutes).
+
+3.**Reviewer team**: the group that will act as reviewers and ask questions. Please send your question **2 days** before the journal club so they can be shared to other groups (25 minutes).
+
+4.**Writer team**: the group that will write a 2-page summary of the paper and the session, with up to 10 references.
+<br>
 
 Here is the list of papers, for which you will have to constitute groups: 
 
@@ -95,7 +104,7 @@ Here is the list of papers, for which you will have to constitute groups:
 </ol>
 
 
-The associated lectures (see here [program]({{ site.url }}{{ site.baseurl }}/program)) associated to each papers are: 
+The associated lectures (see here [Lectures]({{ site.url }}{{ site.baseurl }}/program)) associated to each papers are: 
 
 1. Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)
 2. Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)
@@ -103,6 +112,12 @@ The associated lectures (see here [program]({{ site.url }}{{ site.baseurl }}/pro
 4. Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis
 5. Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis
 6. Protein design in the deep learning era, from inverse folding to diffusion models, Elodie Laine 
+
+
+<p>
+        Each group should choose two papers; to assign roles within your groups, please use the following link: 
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScOXcxeeiM34yOWYJ9RtWWGpO3_PDUr7GW9iyWXF6qr0W0lYw/viewform?usp=header">Click here to select your papers</a>
+    </p>
 
 
 ### Contact person for information
