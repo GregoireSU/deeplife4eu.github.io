@@ -106,13 +106,14 @@ Here is the list of papers, for which you will have to constitute groups:
 
 The associated lectures (see here [Lectures]({{ site.url }}{{ site.baseurl }}/program)) associated to each papers are: 
 
-1. Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)
-2. Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)
-3.
-4. Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis
-5. Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis
-6. Protein design in the deep learning era, from inverse folding to diffusion models, Elodie Laine 
+<ul>
+<li> 1 --> Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)</li>
+<li> 2 --> Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)</li>
 
+<li> 4 --> Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
+<li> 5 --> Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
+<li> 6 --> Protein design in the deep learning era, from inverse folding to diffusion models, Elodie Laine </li>
+</ul>
 
 <p>
         Each group should choose two papers; to assign roles within your groups, please use the following link: 
