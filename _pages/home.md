@@ -108,12 +108,7 @@ The associated lectures (see here [program]({{ site.url }}{{ site.baseurl }}/pro
 Prof. Dr. Carl Herrmann – IPMB carl.herrmann@uni-heidelberg.de<br>
 Prof. Grégoire Sergeant-Perthuis - CQSB gregoire.sergeant-perthuis@sorbonne-universite.fr
 <br>
-
-Registration: Contact your local coordinator.
-
-Registration for Heidelberg students: s.wetzel@uni-heidelberg.de 
-
 <br>
-<br>
-<br>
+
+
 
