@@ -7,5 +7,5 @@ permalink: /projects
 
 # DeepLife projects 2026
 
-**To be announced soon**
+**To be announced**
 

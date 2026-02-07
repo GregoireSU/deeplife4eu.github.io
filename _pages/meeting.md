@@ -8,4 +8,4 @@ permalink: /meeting
 # DeepLife Hackathon 
 
 
-To be announced 
+**To be announced**
