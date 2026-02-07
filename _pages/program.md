@@ -10,7 +10,7 @@ permalink: /program
 
 <br>
 
-**Note that jounral clubs will start at 5pm sharp; from 4.30pm until 5.30pm, on Thuesdays**
+**Note that jounral clubs are from 4.30pm until 5.30pm, on Thursdays**
 
 
 The journal club sessions will be **60-minute and online**. They will be animated by [teachers]({{ site.url }}{{ site.baseurl }}/team) from all participating universities. Four groups of **2 students from the same university** will participate in each session:

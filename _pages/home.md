@@ -38,11 +38,11 @@ As part of the **Blended Intensive Program (BIP) action within the [4EU+ allianc
 This course will be organized in will be organized in 7 weeks of advanced Journal clubs (start: week of 9.02.2026)
 
 
-**First date: Tuesday 12 at 4:30 pm.**
+**First date: Thursday 12 at 4:30 pm to 5:30 pm.**
 
 
 
-<p>The journal clubs will be based on the online lectures and material that can be found her: <a href="https://deeplife4eu.github.io/program">material</a> and can be found here [program]({{ site.url }}{{ site.baseurl }}/program).
+<p>The journal clubs will be based on the online lectures and material that can be found here: [program]({{ site.url }}{{ site.baseurl }}/program).
 <br></p>
 
 
