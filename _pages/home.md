@@ -35,7 +35,7 @@ As part of the **Blended Intensive Program (BIP) action within the [4EU+ allianc
 </p>
 
 ### Organization
-This course will be organized in will be organized in 7 weeks of advanced Journal clubs (start: week of 9.02.2026)
+This course will be organized in 7 weeks of advanced Journal clubs (start: week of 9.02.2026)
 
 
 **First date: Thursday 12 at 4:30 pm to 5:30 pm.**
@@ -107,18 +107,15 @@ Here is the list of papers, for which you will have to constitute groups:
 The associated lectures (see here [Lectures]({{ site.url }}{{ site.baseurl }}/program)) associated to each papers are: 
 
 <ul>
-<li> 1 --> Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)</li>
-<li> 2 --> Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)</li>
+<li> 1 &#8594; Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)</li>
+<li> 2 &#8594; Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)</li>
 
-<li> 4 --> Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
-<li> 5 --> Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
-<li> 6 --> Protein design in the deep learning era, from inverse folding to diffusion models, Elodie Laine </li>
+<li> 4 &#8594; Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
+<li> 5 &#8594; Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
+<li> 6 &#8594; Protein design in the deep learning era, from inverse folding to diffusion models, Elodie Laine </li>
 </ul>
 
-<p>
-        Each group should choose two papers; to assign roles within your groups, please use the following link: 
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLScOXcxeeiM34yOWYJ9RtWWGpO3_PDUr7GW9iyWXF6qr0W0lYw/viewform?usp=header">Click here to select your papers</a>
-    </p>
+
 
 
 ### Contact person for information
