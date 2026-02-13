@@ -47,7 +47,7 @@ This course will be organized in will be organized in 7 weeks of advanced Journa
 
 The journal club sessions will be **60-minute and online**. They will be animated by [teachers]({{ site.url }}{{ site.baseurl }}/team) from all participating universities. Four groups of **2 students from the same university** will participate in each session:
 
-1.**Background team**: the groupe will explain the context and background of the paper (15 minutes).
+1.**Background team**: the group will explain the context and background of the paper (15 minutes).
 
 2.**Presenter team**: the group that will present the paper (20 minutes).
 
