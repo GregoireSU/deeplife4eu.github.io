@@ -9,8 +9,8 @@ permalink: /projects
 
 During the team until the Hackathon, you will be working on a project you will select within a list of 6 projects:
 
-1. Project 01: <a href="https://drive.google.com/file/d/1JE9V61wvKcRz7aPtYO3dJ1l0hDsCOinX/view?usp=drive_link">Prediction of Cryptic Binding Sites with Conformational Ensemble Generation and P2Rank</a> <a href="/project2"> (David Hoksza)</a>. The link to the datasetset is here <a href="https://github.com/cusbg/deeplife-2026/">https://github.com/cusbg/deeplife-2026/</a>.
-2. Project 02: <a href="https://drive.google.com/file/d/16CSXOnEl8Ug-hVuBZvMlPPjXUHLeGJ9g/view?usp=sharing">Prediction of Cryptic Binding Sites Using Protein Language Models</a> (David Hoksza). The link to the dataset is here <a href="https://github.com/cusbg/deeplife-2026/">https://github.com/cusbg/deeplife-2026/</a>.
+1. Project 01: <a href="https://drive.google.com/file/d/1JE9V61wvKcRz7aPtYO3dJ1l0hDsCOinX/view?usp=drive_link">Prediction of Cryptic Binding Sites with Conformational Ensemble Generation and P2Rank</a> <a href="/project1.html"> (David Hoksza)</a>. The link to the datasetset is here <a href="https://github.com/cusbg/deeplife-2026/">https://github.com/cusbg/deeplife-2026/</a>.
+2. Project 02: <a href="https://drive.google.com/file/d/16CSXOnEl8Ug-hVuBZvMlPPjXUHLeGJ9g/view?usp=sharing">Prediction of Cryptic Binding Sites Using Protein Language Models</a> <a href="/project2.html">(David Hoksza)</a>. The link to the dataset is here <a href="https://github.com/cusbg/deeplife-2026/">https://github.com/cusbg/deeplife-2026/</a>.
 3. Project 03: <a href="https://drive.google.com/file/d/1B74Jsi2OP0QFLieRi7YgS5TZZVh7x0F0/view?usp=sharing"> Extending Deep Generative Markov State Models: Non-Markovian and Continuous Dynamics (Grégoire Sergeant-Perthuis)</a>.
 4. Project 04: <a href="https://drive.google.com/file/d/1kpNE_TFZskmHurqGH__-q8j0HX_FHJ1E/view?usp=sharing">SE(3)-Equivariant Diffusion Models for Protein Structure Generation (Grégoire Sergeant-Perthuis)</a>.
 

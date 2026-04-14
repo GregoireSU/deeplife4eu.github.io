@@ -2,7 +2,7 @@
 title: "Project2"
 layout: textlay
 sitemap: false
-permalink: /project2
+permalink: /project2.html
 ---
 
 
