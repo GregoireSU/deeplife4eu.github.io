@@ -12,7 +12,7 @@ During the team until the Hackathon, you will be working on a project you will s
 1. Project 01: [Prediction of Cryptic Binding Sites with Conformational Ensemble Generation and P2Rank](../project1.html) (David Hoksza)
 2. Project 02: <a href="https://drive.google.com/file/d/16CSXOnEl8Ug-hVuBZvMlPPjXUHLeGJ9g/view?usp=sharing">Prediction of Cryptic Binding Sites Using Protein Language Models (David Hoksza)</a>
 3. Project 03: <a href="https://drive.google.com/file/d/17NwklXgX2V-JUcTra4q9WCPUbLLc598f/view?usp=sharing"> Extending Deep Generative Markov State Models: Non-Markovian and Continuous Dynamics (Grégoire Sergeant-Perthuis)</a>
-4. Project 04: <a href="https://drive.google.com/drive/u/0/folders/1sRS3LXz9n9OMhSLhHNItK-bLMxF-5RV_">Extending Deep Generative Markov State Models: Non-Markovian and Continuous
+4. Project 04: <a href="https://drive.google.com/file/d/103t8A6FwMunJDW20i6pO__bJN0GskmVe/view?usp=sharing">Extending Deep Generative Markov State Models: Non-Markovian and Continuous
 Dynamics</a>
 
 
