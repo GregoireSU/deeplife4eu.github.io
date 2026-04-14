@@ -1,11 +1,3 @@
----
-title: "Project2"
-layout: textlay
-sitemap: false
-permalink: /project2.html
----
-
-
 
 # Project: Prediction of Cryptic Binding Sites Using Protein Language Models
 
