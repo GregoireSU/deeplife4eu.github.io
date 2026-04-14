@@ -1,5 +1,5 @@
-title: ""
-layout: homelay
+title: "Project1"
+layout: textlay
 sitemap: false
 permalink: /project1
 ---
