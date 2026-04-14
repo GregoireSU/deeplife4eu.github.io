@@ -1,7 +1,8 @@
+---
 title: "Project1"
 layout: textlay
 sitemap: false
-permalink: /project1
+permalink: /project1.html
 ---
 
 
