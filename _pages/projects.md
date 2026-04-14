@@ -23,5 +23,4 @@ During the Hackathon, teams from different universities who have worked on the s
 
 
 
-[link](../project1.html)
 
