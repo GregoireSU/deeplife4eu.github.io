@@ -21,3 +21,7 @@ Please select one of the projects and **register with your team (around 4 studen
 
 During the Hackathon, teams from different universities who have worked on the same project will work together to compare their results and prepare a common poster presentation (check the [Hackathon page](../meeting.html) for more details)
 
+
+
+[link](../project1.html)
+
