@@ -111,9 +111,10 @@ The associated lectures (see here [Lectures]({{ site.url }}{{ site.baseurl }}/pr
 <li> 2 &#8594; Deep learning models for protein-ligand binding site prediction, David Hoksza (Prague)</li>
 
 <li> 4 &#8594; Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
-<li> 5 &#8594; Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis</li>
+<li> 5 &#8594; Deep Architectures for sampling macromolecules, Grégoire Sergeant-Perthuis  <a href="https://drive.google.com/file/d/17OpNuthQig0cwv6jTkr0fT8Xx3AIQB_Y/view?usp=sharing"> Link to the video </a></li> 
 <li> 6 &#8594; Protein design in the deep learning era, from inverse folding to diffusion models, Elodie Laine </li>
 </ul>
+
 
 
 
